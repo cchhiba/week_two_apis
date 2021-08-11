@@ -1,0 +1,31 @@
+/* custom css styles is written here */
+
+/* reset css styles */
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+
+body {
+  background: rgb(247, 241, 230);
+  font-size: 16px;
+}
+
+h1 {
+  color: rgb(184, 114, 57);
+  padding: 1rem;
+  border-bottom: 3px solid rgb(184, 114, 57);
+}
+
+.card-body {
+  background-color: rgb(212, 172, 83);
+  border: 3px solid rgb(184, 114, 57);
+  color: rgb(55, 53, 50);
+}
+
+h2 {
+  text-align: right;
+  border-bottom: 0.2rem solid rgb(55, 53, 50);
+  padding-bottom: 0.2rem;
+}
